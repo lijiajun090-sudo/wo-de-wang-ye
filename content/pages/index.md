@@ -14,12 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      留学直通车，海外学业辅导
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      专注机械工程/力学类本硕博海外留学生的一对一辅导：课程作业、论文写作、选课/申请建议。私塾式整学期、整学年保驾护航，妈妈再也不用担心我的学习。
     styles:
       self:
         height: auto
@@ -95,7 +92,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: 留下您的联系方式（严格保密），秘书会尽快联系您进行课程规划。
     form:
       type: FormBlock
       elementId: sign-up-form
