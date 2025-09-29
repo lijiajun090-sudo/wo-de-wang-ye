@@ -4,7 +4,7 @@ title: A very cool code project
 colors: colors-a
 client: 留下直通车
 description: >-
-  论文写不出来，交给GPT和DeepSeek？别傻了孩子，小心被退学。别让AI毁了你的学术和职业生涯
+  论文写不出来，交给GPT和DeepSeek？别傻了孩子，小心被退学。别让AI毁了你的学术和职业生涯！！！
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
