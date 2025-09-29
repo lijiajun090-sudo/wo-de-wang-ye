@@ -2,7 +2,6 @@
 type: ProjectLayout
 title: 作业/project不会写？
 colors: colors-a
-date: '2021-12-20'
 client: Awesome client
 description: >-
   很难想象距离考试和交作业的deadline越来越近但自己却一点也没有动，是不会写吗？是的。是懒惰吗？是的。那课程还要不要过了？不要（不是）。语言不适应，同学不给你借鉴，老师太变态，这可以成为借口但谁会听你的借口，把A甩他脸上。
