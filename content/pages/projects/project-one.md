@@ -2,10 +2,9 @@
 type: ProjectLayout
 title: A very cool code project
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
+client: 留下直通车
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  论文写不出来，交给GPT和DeepSeek？别傻了孩子，小心被退学。别让AI毁了你的学术和职业生涯
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
@@ -16,14 +15,23 @@ media:
   altText: Project image
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Deadline前一周，我的实验数据散乱在三个Excel表格里，仿真结果和理论计算对不上，报告文档只有标题和几张不知如何分析的图表。我知道问题是什么，但不知道如何用工程语言系统地解释现象、分析差异并给出有说服力的结论。
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+我也试过“捷径”—— 把数据扔给ChatGPT让它写分析。结果令人绝望：它编造了不存在的趋势，对数值差异给出了荒谬的解释，提出的改进建议完全违背工程常识。 我意识到，AI永远理解不了纳维-斯托克斯方程的物理意义，也看不懂有限元分析中的应力集中意味着什么。依赖AI写工程报告，就像让文学家设计桥梁——表面华丽，实则危险。
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+真正的转机始于我报名了'工科报告写作与问题求解工作坊'。导师本身就是有多年项目经验的工程师，他告诉我：“工程写作不是文学创作，是逻辑推理的书面呈现。” 他带我走了一遍真正的工程问题求解流程：
+问题定义阶段：用“问题-目标-约束”框架精确界定工程问题，确保整篇报告方向明确
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+方法论设计：教我如何清晰描述实验设置、仿真参数和理论模型，让别人能够复现我的工作
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+结果分析：学习用工程图表说话——如何选择合适的图表类型，如何标注关键特征，如何对比不同方案的性能曲线
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+讨论与结论：教我“建立现象-理论-差异分析-工程启示”的逻辑链条，把简单的数据描述升华为有价值的工程见解
+
+成果是专业级的。我的期末课程项目报告不仅获得了A+，教授的评价是：“这份报告展现出了成熟工程师的系统思维和专业素养。” 更重要的是，我掌握了一套解决工程问题、呈现技术方案的标准化方法，这在我随后的实习中直接帮我赢得了团队的信赖。
+
+> “Everybody should master academic writing, because it teaches you how to think critically.”
+
+工程思维需要专业的表达方式
+让我们帮你建立坚实的工科写作框架，把你的技术能力转化为令人信服的专业报告。
+【立即预约工科学术写作能力评估】
