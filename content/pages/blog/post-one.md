@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: 如何写好论文？
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
@@ -21,7 +21,7 @@ bottomSections:
     type: RecentPostsSection
     colors: colors-f
     variant: variant-d
-    subtitle: Recent posts
+    subtitle: 了解更多
     showDate: true
     showAuthor: false
     showExcerpt: true
@@ -40,7 +40,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: '留下您的问题 ✍️'
     colors: colors-f
     form:
       type: FormBlock
@@ -67,11 +67,6 @@ bottomSections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         self:
@@ -89,18 +84,96 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+写好一篇学术论文，既是写作技巧的问题，也是研究思路和学术规范的问题。可以从以下几个方面入手：
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+一、前期准备
+1. 明确研究问题
+      好的论文通常源于一个清晰而有价值的科学问题。
+    
+      问题要有创新性、研究意义，并且在学科领域内有一定的延伸空间。
 
-## About Coding
+2. 查阅文献
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+      系统性阅读领域内的经典与最新文献，掌握研究现状。
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+      注意找出 研究空白（gap），这是你论文贡献的切入点。
 
-## Productivity
+3. 确定研究方法
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+      实验、数值模拟、理论分析等方法要和研究问题匹配。
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+      方法要可复现，符合学科规范。
+
+## 二、写作结构
+
+> “学术论文一般遵循 IMRaD（Introduction, Methods, Results, and Discussion）结构”
+
+1. 摘要（Abstract）
+
+       简洁，突出研究目的、方法、结果和意义。
+
+       通常最后写，控制在 150–250 字左右。
+
+2. 引言（Introduction）
+
+       背景：交代研究背景和重要性。
+
+       现状：总结已有研究进展。
+
+       缺口：点出不足与研究空白。
+
+       目标：说明本文做了什么，贡献是什么。
+
+3. 方法（Methods）
+
+       实验/模拟/理论的具体过程，清晰且可复现。
+
+       使用恰当的图表、流程图辅助说明。
+
+4. 结果（Results）
+
+       用数据、图表、可视化手段清楚展示。
+
+       避免无关结果，做到“以图带文”。
+
+5. 讨论（Discussion）
+
+       解释结果背后的机理和原因。
+
+       与已有文献比较，突出新的发现。
+
+       强调局限性与未来研究方向。
+
+6. 结论（Conclusion）
+
+       简要总结最重要的发现和贡献。
+
+       不要引入新的数据。
+
+7. 参考文献（References）
+
+       遵循目标期刊的格式。
+
+       引用要平衡（不要只引用自己或某一小圈子）。
+
+## 三、写作技巧
+
+逻辑清晰：段落要有主旨句，整体要“前后呼应”。
+
+简洁准确：避免冗余，使用学术词汇而非口语。
+
+图表优先：一图胜千言，每张图都应有结论性说明。
+
+层次分明：标题、小标题、段落衔接自然。
+
+反复修改：初稿完成后，多次修改逻辑、语言和格式。
+
+同行反馈：请导师或同事帮忙审阅，及时修正。
+## 四、提升论文质量的要点
+1. 创新性 —— 研究角度或方法的新颖性。
+
+2. 规范性 —— 严格遵守学术规范和格式。
+
+3. 可读性 —— 逻辑、语言、图表让不同背景的学者都能理解。
+
+4. 影响力 —— 讨论研究在更大范围的意义（科学、工程、社会）。
