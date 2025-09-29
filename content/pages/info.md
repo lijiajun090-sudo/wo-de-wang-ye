@@ -229,7 +229,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [liuxuezhitongche2.@outlook.com](mailto:liuxuezhitongche2.@outlook.com)
+      [liuxuezhitongche2@outlook.com](mailto:liuxuezhitongche2@outlook.com)
   - type: DividerSection
     styles:
       self:
@@ -327,7 +327,7 @@ sections:
           placeholder: Tell me about your project
           isRequired: true
           width: full
-
+          type: TextareaFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         self:
