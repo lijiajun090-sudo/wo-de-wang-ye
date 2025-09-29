@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # 嗨，我是Jack Ma老师，毕业于世界前50机械工程/力学博士，现任东大高校AP，主抓工程数学和力学类课程/学术写作。
 
     media:
       type: ImageBlock
@@ -52,7 +49,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: '无论你未来工作想去:'
     images:
       - type: ImageBlock
         url: /images/logo1.svg
@@ -101,13 +98,13 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
+    subtitle: '你可以学到的课程：'
     colors: colors-f
     items:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: 微积分Calculus
             url: 'https://github.com/'
         styles:
           self:
@@ -115,7 +112,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: 线性代数Linear Algebra
             url: 'https://twitter.com/'
         styles:
           self:
@@ -123,7 +120,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: 复变函数Complex Functions
             url: 'https://www.linkedin.com/'
         styles:
           self:
@@ -131,7 +128,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: 数值方法Numerical Methods
             url: 'https://codepen.io/'
         styles:
           self:
@@ -139,7 +136,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: 材料力学Mechanics of Materials
             url: 'https://discord.com/'
         styles:
           self:
@@ -147,7 +144,31 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
+            label: 动力学Advanced Dynamics
+            url: 'https://www.instagram.com/'
+        styles:
+          self:
+            textAlign: left
+                  - type: FeaturedItem
+        actions:
+          - type: Link
+            label: 结构力学Structure Mechanics
+            url: 'https://www.instagram.com/'
+        styles:
+          self:
+            textAlign: left
+                  - type: FeaturedItem
+        actions:
+          - type: Link
+            label: 流体力学Fluids Dynamics
+            url: 'https://www.instagram.com/'
+        styles:
+          self:
+            textAlign: left
+                  - type: FeaturedItem
+        actions:
+          - type: Link
+            label: 工程热力学Engineering Thermodynamics
             url: 'https://www.instagram.com/'
         styles:
           self:
@@ -180,21 +201,18 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: 'C++'
       - type: Label
-        label: React
+        label: 有限元FEM
       - type: Label
-        label: Microsoft Office
+        label: 计算流体力学CFD
       - type: Label
-        label: Next.js
+        label: Matlab
       - type: Label
-        label: Netlify
+        label: Chemkin
       - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
+        label: 传热传质Heat and Mass Transfer
+
   - type: DividerSection
     styles:
       self:
@@ -211,7 +229,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [liuxuezhitongche2.@outlook.com](mailto:liuxuezhitongche2.@outlook.com)
   - type: DividerSection
     styles:
       self:
@@ -227,47 +245,29 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: 'Experience & Education:'
         text: |-
           **Current**
 
-          * freelance @freelance.me
+          * 东大某大学助理教授
 
-          **2018-2021**
+          **2020-2024**
 
-          * fullstack at this startup
+          * 世界前50博
 
-          **2015**
+          **2018-2020**
 
-          * senior front-end at this place
+          * 世界前100硕
 
-          **2013**
+          **2014-2018**
 
-          * intern developer at a big company
-
-          **2011**
+          * 985本
 
           * flipping burgers
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
 
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
     columns: 2
     spacingX: 60
     spacingY: 60
@@ -327,12 +327,7 @@ sections:
           placeholder: Tell me about your project
           isRequired: true
           width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
+
       submitLabel: "Submit \U0001F680"
       styles:
         self:
