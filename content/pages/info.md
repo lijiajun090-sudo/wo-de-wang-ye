@@ -149,7 +149,7 @@ sections:
         styles:
           self:
             textAlign: left
-                  - type: FeaturedItem
+      - type: FeaturedItem
         actions:
           - type: Link
             label: 结构力学Structure Mechanics
@@ -157,7 +157,7 @@ sections:
         styles:
           self:
             textAlign: left
-                  - type: FeaturedItem
+      - type: FeaturedItem
         actions:
           - type: Link
             label: 流体力学Fluids Dynamics
@@ -165,7 +165,7 @@ sections:
         styles:
           self:
             textAlign: left
-                  - type: FeaturedItem
+      - type: FeaturedItem
         actions:
           - type: Link
             label: 工程热力学Engineering Thermodynamics
