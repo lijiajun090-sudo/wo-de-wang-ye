@@ -66,7 +66,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle:学员论文发表
+    subtitle: 学员论文发表
     showFeaturedImage: false
     actions:
       - type: Link
