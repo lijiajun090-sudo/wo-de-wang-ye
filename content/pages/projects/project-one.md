@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: SCI/毕设怎么写
 colors: colors-a
 client: 留下直通车
 description: >-
