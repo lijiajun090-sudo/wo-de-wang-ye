@@ -61,7 +61,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: 辅导课程列表
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -118,12 +118,12 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - name: message
+          label: Message
           hideLabel: true
-          placeholder: Address
+          placeholder: 请在此输入您的需求或问题（严格保密）
           isRequired: true
-          width: 1/2
+          width: full
           type: TextFormControl
         - name: updatesConsent
           label: Sign me up to recieve updates
