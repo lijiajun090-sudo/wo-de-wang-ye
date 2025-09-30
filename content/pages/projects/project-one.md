@@ -1,10 +1,10 @@
 ---
 type: ProjectLayout
-title: SCI/毕设怎么写
+title: SCI/毕设怎么写？
 colors: colors-a
 client: 留下直通车
 description: >-
-  论文写不出来，交给GPT和DeepSeek？别傻了孩子，小心被退学。别让AI毁了你的学术和职业生涯！！！
+  论文写不出来，交给GPT和DeepSeek？别傻了孩子，小心被退学。别让AI毁了你的学术和职业生涯！！！申研申博暂时没有文章或是在投被拒？专业的辅导和审稿让SCI不再困难。
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
