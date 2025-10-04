@@ -263,7 +263,6 @@ sections:
 
           * 985本
 
-          * flipping burgers
         styles:
           self:
             textAlign: left
