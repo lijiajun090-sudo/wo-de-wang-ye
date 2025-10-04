@@ -5,17 +5,17 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "首页",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "关于我",
                 "url": "/info"
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "辅导内容",
                 "url": "/projects"
             },
             {
@@ -57,8 +57,8 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "label": "联系我们",
+                "url": "mailto:liuxuezhitongche2.@outlook.com",
                 "altText": ""
             },
             {
@@ -79,9 +79,9 @@
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "liuxuezhitongche2.@outlook.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Haidian District, Beijing, China, 100811",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
