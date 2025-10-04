@@ -28,15 +28,15 @@
             {
                 "type": "Social",
                 "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
+                "label": "中科院分区",
+                "url": "https://www.fenqubiao.com/",
                 "icon": "twitter"
             },
             {
                 "type": "Social",
                 "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "label": "SCI分区",
+                "url": "https://www.scimagojr.com/journalrank.php",
                 "icon": "github"
             }
         ],
