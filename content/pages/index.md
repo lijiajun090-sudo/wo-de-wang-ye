@@ -70,12 +70,13 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Link
-        label: 论文有难题？
+        label: 更多问题
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
+      - content/pages/blog/post-two.md
       - content/pages/blog/post-three.md
+      - content/pages/blog/post-seven.md
+      - content/pages/blog/post-four.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
