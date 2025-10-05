@@ -204,17 +204,17 @@ sections:
         label: 'C++'
       - type: Label
         label: 有限元FEM
-        url:'/courses/fem'
+        url:  '/courses/fem'
       - type: Label
         label: 计算流体力学CFD
-        url:'/courses/cfd'
+        url:  '/courses/cfd'
       - type: Label
         label: Matlab
       - type: Label
         label: Chemkin
       - type: Label
         label: 传热传质Heat and Mass Transfer
-        url:'courses/heat-transfer'
+        url:  'courses/heat-transfer'
 
   - type: DividerSection
     styles:
