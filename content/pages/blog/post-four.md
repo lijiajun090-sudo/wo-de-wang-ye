@@ -1,11 +1,10 @@
 ---
 type: PostLayout
-title: Sharing my wisdom with the world 🌎
+title: 🧠 定制方案 / 论文议价包
 colors: colors-a
-date: '2024-02-01'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  💰 **议价（起价 ¥580 / 小时）**  
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
@@ -83,15 +82,9 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-## Heading 2
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-### Heading 3
-
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
+📘 适合人群：论文指导、科研写作、项目建模、面试准备等个性化需求。  
+📋 服务内容：根据任务复杂度、周期、难度单独报价。  
+⏱️ 特点：专属方案、严格保密、结果导向。
 
 ```javascript
 {
