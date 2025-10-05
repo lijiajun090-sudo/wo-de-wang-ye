@@ -105,7 +105,7 @@ sections:
         actions:
           - type: Link
             label: 微积分Calculus
-            url: 'https://github.com/'
+            url: '/courses/calculus'
         styles:
           self:
             textAlign: left
@@ -113,7 +113,7 @@ sections:
         actions:
           - type: Link
             label: 线性代数Linear Algebra
-            url: 'https://twitter.com/'
+            url: '/courses/linear-algebra'
         styles:
           self:
             textAlign: left
@@ -121,7 +121,7 @@ sections:
         actions:
           - type: Link
             label: 复变函数Complex Functions
-            url: 'https://www.linkedin.com/'
+            url: '/courses/complex-functions'
         styles:
           self:
             textAlign: left
@@ -129,7 +129,7 @@ sections:
         actions:
           - type: Link
             label: 数值方法Numerical Methods
-            url: 'https://codepen.io/'
+            url: '/courses/numerical-methods'
         styles:
           self:
             textAlign: left
@@ -137,7 +137,7 @@ sections:
         actions:
           - type: Link
             label: 材料力学Mechanics of Materials
-            url: 'https://discord.com/'
+            url: '/courses/mechanics-of-materials'
         styles:
           self:
             textAlign: left
@@ -145,7 +145,7 @@ sections:
         actions:
           - type: Link
             label: 动力学Advanced Dynamics
-            url: 'https://www.instagram.com/'
+            url: '/courses/advanced-dynamics'
         styles:
           self:
             textAlign: left
@@ -153,15 +153,15 @@ sections:
         actions:
           - type: Link
             label: 结构力学Structure Mechanics
-            url: 'https://www.instagram.com/'
+            url: '/courses/structure-mechanics'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: 流体力学Fluids Dynamics
-            url: 'https://www.instagram.com/'
+            label: 流体力学Fluids Mechanics
+            url: '/courses/fluid-mechanics'
         styles:
           self:
             textAlign: left
@@ -169,7 +169,7 @@ sections:
         actions:
           - type: Link
             label: 工程热力学Engineering Thermodynamics
-            url: 'https://www.instagram.com/'
+            url: '/courses/engineering-thermodynamics'
         styles:
           self:
             textAlign: left
@@ -204,14 +204,17 @@ sections:
         label: 'C++'
       - type: Label
         label: 有限元FEM
+        url:'/courses/fem'
       - type: Label
         label: 计算流体力学CFD
+        url:'/courses/cfd'
       - type: Label
         label: Matlab
       - type: Label
         label: Chemkin
       - type: Label
         label: 传热传质Heat and Mass Transfer
+        url:'courses/heat-transfer'
 
   - type: DividerSection
     styles:
