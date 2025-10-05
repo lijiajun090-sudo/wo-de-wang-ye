@@ -4,7 +4,7 @@ title: ⚡ 考前冲刺 / 集中补课
 colors: colors-a
 author: content/data/team/doris-soto.json
 excerpt: >-
-💰 **¥520 / 小时**  
+  💰 **¥520 / 小时**  
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
