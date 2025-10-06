@@ -16,7 +16,7 @@ sections:
     title: >-
       留学直通车，海外学业辅导
     subtitle: >-
-      专注机械工程/力学类本硕博海外留学生的一对一辅导：课程作业、论文写作、选课、申请建议。私塾式整学期、整学年保驾护航，妈妈再也不用担心我的学习。
+      专注机械工程/力学本硕博海外留学生的一对一辅导：课程作业、论文写作、选课、申请建议。私塾式整学期、整学年保驾护航，妈妈再也不用担心我的学习。
     styles:
       self:
         height: auto
@@ -66,7 +66,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: 学员论文发表
+    subtitle: 辅导套餐一览
     showFeaturedImage: false
     actions:
       - type: Link
