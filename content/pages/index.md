@@ -113,9 +113,9 @@ sections:
           width: 1/2
           type: TextFormControl
         - name: email
-          label: Email
+          label: 联系方式
           hideLabel: true
-          placeholder: Email
+          placeholder: Email/微信
           isRequired: true
           width: 1/2
           type: EmailFormControl
