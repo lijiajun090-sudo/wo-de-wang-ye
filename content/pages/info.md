@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # 嗨，我是Jack Ma老师，毕业于世界前50机械工程/力学博士，现任东大高校AP，主抓工程数学和力学类课程/学术写作。
+      # 嗨，我是Jack Ma老师，毕业于世界前50机械工程博士，现任东大某高校AP，擅长工程数学和力学类课程/学术写作。
 
     media:
       type: ImageBlock
