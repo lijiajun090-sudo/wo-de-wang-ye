@@ -7,11 +7,11 @@ description: >-
   很难想象现在有deep learning和machine learning老师还在让我们解Navier-Stokes方程，两百年的流体力学就这？没有流体力学老子还不是照样坐飞机？为什么浦东飞LA比LA飞浦东时间要短，你不会还在和家长解释地球自转吧？
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/plane.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/plane.jpg
   altText: Project image
 ---
 
