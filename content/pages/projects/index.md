@@ -80,11 +80,6 @@ bottomSections:
           placeholder: Tell me about your project
           isRequired: true
           width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
           type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
