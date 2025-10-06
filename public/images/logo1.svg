@@ -1,4 +1,12 @@
-<svg width="120" height="120" viewBox="0 0 100 100">
-  <path fill="#CF0A2C" d="M50 10a40 40 0 1 0 0 80 40 40 0 0 0 0-80zm0 72a32 32 0 1 1 0-64 32 32 0 0 1 0 64z"/>
-  <path fill="#CF0A2C" d="M50 15a35 35 0 1 0 0 70 35 35 0 0 0 0-70zm-15 35c0-2.2 1.8-4 4-4s4 1.8 4 4-1.8 4-4 4-4-1.8-4-4zm22 0c0-2.2 1.8-4 4-4s4 1.8 4 4-1.8 4-4 4-4-1.8-4-4z"/>
+<!-- save as /images/huawei-badge.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="64" viewBox="0 0 220 64" role="img" aria-label="华为（示意）">
+  <rect width="220" height="64" rx="8" fill="#fff" />
+  <!-- red petals stylized -->
+  <g transform="translate(18,12)" fill="#D32F2F">
+    <ellipse cx="8" cy="8" rx="4" ry="12" transform="rotate(-40 8 8)"/>
+    <ellipse cx="20" cy="6" rx="4" ry="12" transform="rotate(-15 20 6)"/>
+    <ellipse cx="32" cy="6" rx="4" ry="12" transform="rotate(15 32 6)"/>
+    <ellipse cx="44" cy="8" rx="4" ry="12" transform="rotate(40 44 8)"/>
+  </g>
+  <text x="78" y="38" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#111">华为（示意）</text>
 </svg>
