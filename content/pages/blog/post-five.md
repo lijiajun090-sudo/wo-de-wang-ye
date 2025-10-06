@@ -2,7 +2,6 @@
 type: PostLayout
 title: 💎 高端课程 / Premium Academic Coaching
 colors: colors-a
-date: '2024-05-02'
 author: content/data/team/doris-soto.json
 excerpt: >-
   📘 服务简介
