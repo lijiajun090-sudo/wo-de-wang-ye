@@ -4,7 +4,7 @@ title: 📚 课程追踪与系统辅导
 colors: colors-b
 author: content/data/team/doris-soto.json
 excerpt: >-
- 💰 **¥460 / 小时**  
+ 💰 **¥460 (60 USD) / 小时**  
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
@@ -91,7 +91,7 @@ bottomSections:
 
 📘 适合人群：想系统掌握课程、跟随学校教学节奏学习。  
 📋 服务内容：定期辅导（每周1–2次）、课前预习+课后答疑、作业同步讲解。  
-⏱️ 特点：稳步进步、建立知识体系、适合整学期签约。
+⏱️ 特点：稳步进步、建立知识体系、适合整学期签约（可享优惠）。
 
 ## What is Composable Web?
 
