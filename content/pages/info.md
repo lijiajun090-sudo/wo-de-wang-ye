@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: About ME
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -252,19 +252,19 @@ sections:
         text: |-
           **Current**
 
-          * 东大某大学助理教授
+          * 东大某高校助理教授
 
           **2020-2024**
 
-          * 世界前50博
+          * 世界前50博士
 
           **2018-2020**
 
-          * 世界前100硕
+          * 世界前100硕士
 
           **2014-2018**
 
-          * 985本
+          * 985本科
 
         styles:
           self:
