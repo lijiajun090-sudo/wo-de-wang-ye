@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 author: content/data/team/doris-soto.json
 excerpt: >-
-         💰 **¥380 / 小时**  
+         💰 **¥380（50 USD） / 小时**  
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
@@ -97,4 +97,4 @@ bottomSections:
 
 📘 适合人群：临时遇到难题、Project卡壳、作业思路不清。  
 📋 服务内容：一对一作业指导、代码/计算调试、解题思路讲解。  
-⏱️ 特点：无需备课、快速上手、立即提升完成度。
+⏱️ 特点：无需焦虑、快速上手、立即提升完成度。
