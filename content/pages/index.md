@@ -93,51 +93,57 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
+     title: 留下您的联系方式（严格保密），我们会尽快联系您进行课程规划。
     form:
-  type: FormBlock
-  name: sign-up-form           # 表单 name（必须）
-  elementId: sign-up-form
-  attributes:
-    data-netlify: "true"       # 告诉 Netlify 捕获此表单
-    netlify-honeypot: "bot-field" # 可选：启用简单防 spam 字段
-  fields:
-    - name: firstName
-      label: First Name
-      hideLabel: true
-      placeholder: First Name
-      isRequired: true
-      width: 1/2
-      type: TextFormControl
-    - name: lastName
-      label: Last Name
-      hideLabel: true
-      placeholder: Last Name
-      isRequired: false
-      width: 1/2
-      type: TextFormControl
-    - name: contact
-      label: 联系方式
-      hideLabel: true
-      placeholder: Email / 微信 / 电话
-      isRequired: true
-      width: 1/2
-      type: EmailFormControl
-    - name: message
-      label: Message
-      hideLabel: true
-      placeholder: 请在此输入您的需求或问题
-      isRequired: true
-      width: full
-      type: TextFormControl
-    # 隐藏字段：告知 Netlify 表单名称（必须存在）
-    - name: form-name
-      type: HiddenFormControl
-      value: sign-up-form
-    # 可选隐藏防机器人字段（honeypot），留空即可
-    - name: bot-field
-      type: HiddenFormControl
-      value: ""
-  submitLabel: "提交 / Submit 🚀"
-  styles:
-    self:
-      textAlign: center
+      type: FormBlock
+      elementId: sign-up-form
+      fields:
+        - name: firstName
+          label: First Name
+          hideLabel: true
+          placeholder: First Name
+          isRequired: true
+          width: 1/2
+          type: TextFormControl
+        - name: lastName
+          label: Last Name
+          hideLabel: true
+          placeholder: Last Name
+          isRequired: false
+          width: 1/2
+          type: TextFormControl
+        - name: email
+          label: 联系方式
+          hideLabel: true
+          placeholder: Email/微信
+          isRequired: true
+          width: 1/2
+          type: EmailFormControl
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: 请在此输入您的需求或问题
+          isRequired: true
+          width: full
+          type: TextFormControl
+      submitLabel: "Submit \U0001F680"
+      styles:
+        self:
+          textAlign: center
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pr-4
+          - pl-4
+        flexDirection: row
+        textAlign: left
+---
