@@ -97,6 +97,8 @@ sections:
     form:
       type: FormBlock
       elementId: sign-up-form
+      name: "Student Contact Form"
+      netlify: true
       fields:
         - name: firstName
           label: First Name
