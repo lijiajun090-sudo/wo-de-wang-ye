@@ -4,7 +4,7 @@ title: 🧠 定制方案 / 论文议价包
 colors: colors-a
 author: content/data/team/doris-soto.json
 excerpt: >-
-  💰 **议价（起价 ¥580 （80 USD） / 小时）**  
+  💰 **议价（起价 ¥580 （80 USD / 小时）**  
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
@@ -82,7 +82,7 @@ bottomSections:
         textAlign: left
 ---
 
-📘 适合人群：论文指导、科研写作、项目建模、面试准备等个性化需求。  
+📘 适合人群：论文审稿、科研写作、项目建模、面试准备等个性化需求。  
 📋 服务内容：根据任务复杂度、周期、难度单独报价。  
 ⏱️ 特点：专属方案、严格保密、结果导向。
 
