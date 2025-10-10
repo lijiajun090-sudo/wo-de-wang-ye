@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: 服务套餐
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
