@@ -96,10 +96,10 @@ sections:
     title: 留下您的联系方式（严格保密），我们会尽快联系您进行课程规划。
     form:
       name: contact
-      method: POST 
+      method: POST
+      netlify: true
       type: FormBlock
       elementId: sign-up-form
-      netlify: true
       fields:
         - name: firstName
           label: First Name
