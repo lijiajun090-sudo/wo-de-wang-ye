@@ -93,7 +93,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-     title: 留下您的联系方式（严格保密），我们会尽快联系您进行课程规划。
+    title: 留下您的联系方式（严格保密），我们会尽快联系您进行课程规划。
     form:
       type: FormBlock
       elementId: sign-up-form
