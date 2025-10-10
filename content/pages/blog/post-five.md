@@ -4,7 +4,7 @@ title: 💎 高端课程 / Premium Academic Coaching
 colors: colors-a
 author: content/data/team/doris-soto.json
 excerpt: >-
-  📘 服务简介
+  💰 **议价（起价 ¥700 （100 USD）/ 小时）**  
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
