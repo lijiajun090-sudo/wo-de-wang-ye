@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: 学业辅导
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
