@@ -4,7 +4,7 @@ title: ⚡ 考前冲刺 / 集中补课
 colors: colors-a
 author: content/data/team/doris-soto.json
 excerpt: >-
-  💰 **¥520 / 小时**  
+  💰 **¥520 （70 USD） / 小时**  
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
@@ -91,4 +91,4 @@ bottomSections:
 
 📘 适合人群：考前复习、作业堆积、短期提高。  
 📋 服务内容：集中突击、重点预测、真题演练、查漏补缺。  
-⏱️ 特点：教师高强度投入，适合Deadline前全力冲刺。
+⏱️ 特点：高强度投入，适合临近期中、期末Deadline前全力冲刺。
