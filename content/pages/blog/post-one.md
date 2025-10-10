@@ -2,7 +2,6 @@
 type: PostLayout
 title: 如何写好论文？
 colors: colors-a
-date: '2021-06-28'
 author: content/data/team/doris-soto.json
 excerpt: >-
   More context that may or may not be helpful
