@@ -95,7 +95,7 @@ sections:
     backgroundSize: full
     title: 留下您的联系方式（严格保密），我们会尽快联系您进行课程规划。
     form:
-      name: contact
+      name: sign-up-form
       method: POST
       netlify: true
       type: FormBlock
