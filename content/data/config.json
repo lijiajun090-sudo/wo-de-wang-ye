@@ -75,7 +75,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "WechatNumber": "liuxuezhitongche2",
             "phoneAltText": "My phone number",
             "email": "liuxuezhitongche2.@outlook.com",
             "emailAltText": "My email",
