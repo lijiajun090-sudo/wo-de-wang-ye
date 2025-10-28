@@ -30,14 +30,12 @@
                 "altText": "Twitter",
                 "label": "中科院分区",
                 "url": "https://www.fenqubiao.com/",
-                "icon": "twitter"
             },
             {
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "SCI分区",
                 "url": "https://www.scimagojr.com/journalrank.php",
-                "icon": "github"
             }
         ],
         "styles": {
