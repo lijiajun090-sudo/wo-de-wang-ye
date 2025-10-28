@@ -28,7 +28,7 @@ postFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Blog
+    title: 服务套餐
     subtitle: ''
     actions: []
     colors: colors-f
