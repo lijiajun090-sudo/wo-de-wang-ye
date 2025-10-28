@@ -75,8 +75,8 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "WechatNumber": "liuxuezhitongche2",
-            "phoneAltText": "My phone number",
+            "WeChatNumber": "liuxuezhitongche2",
+            "phoneAltText": "My WeChat number",
             "email": "liuxuezhitongche2.@outlook.com",
             "emailAltText": "My email",
             "address": "Haidian District, Beijing, China, 100811",
