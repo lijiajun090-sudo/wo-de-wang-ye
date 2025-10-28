@@ -4,7 +4,7 @@ title: 🧠 定制方案 / 论文议价包
 colors: colors-a
 author: content/data/team/doris-soto.json
 excerpt: >-
-  💰 **议价（起价 ¥580 （80 USD / 小时）**  
+  💰 **议价，起价 ¥580 （80 USD）/ 小时**  
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
