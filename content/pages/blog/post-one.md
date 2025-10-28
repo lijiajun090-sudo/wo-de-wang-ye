@@ -2,9 +2,8 @@
 type: PostLayout
 title: 如何写好论文？
 colors: colors-a
-author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  写好一篇学术论文，既是写作技巧的问题，也是研究思路和学术规范的问题
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
