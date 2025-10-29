@@ -24,16 +24,14 @@
                 "url": "/blog"
             }
         ],
-        "socialLinks": [
+        "primaryLinks": [
             {
-                "type": "Social",
-                "altText": "Twitter",
+                "type": "Link",
                 "label": "中科院分区",
                 "url": "https://www.fenqubiao.com/",
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
                 "label": "SCI分区",
                 "url": "https://www.scimagojr.com/journalrank.php",
             }
@@ -75,7 +73,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "WeChatNumber": "liuxuezhitongche2",
+            "phone": "Wechat: liuxuezhitongche2",
             "phoneAltText": "My WeChat number",
             "email": "liuxuezhitongche2.@outlook.com",
             "emailAltText": "My email",
