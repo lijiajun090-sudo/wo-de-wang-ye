@@ -22,8 +22,7 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
-            }
-        ],
+            },
             {
                 "type": "Link",
                 "label": "中科院分区",
@@ -47,18 +46,17 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "/info",
-                "altText": ""
+                "url": "/info"
             },
             {
                 "type": "Link",
                 "label": "联系我们",
-                "url": "mailto:liuxuezhitongche2.@outlook.com",
+                "url": "mailto:liuxuezhitongche2.@outlook.com"
             },
             {
                 "type": "Link",
                 "label": "Blog",
-                "url": "/blog",
+                "url": "/blog"
             }
         ],
         "contacts": {
