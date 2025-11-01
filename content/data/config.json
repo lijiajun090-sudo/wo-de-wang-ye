@@ -24,7 +24,6 @@
                 "url": "/blog"
             }
         ],
-        "primaryLinks": [
             {
                 "type": "Link",
                 "label": "中科院分区",
@@ -55,19 +54,11 @@
                 "type": "Link",
                 "label": "联系我们",
                 "url": "mailto:liuxuezhitongche2.@outlook.com",
-                "altText": ""
             },
             {
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
@@ -80,7 +71,7 @@
             "address": "Haidian District, Beijing, China, 100811",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "知识就是力量",
         "styles": {
             "self": {
                 "width": "narrow",
