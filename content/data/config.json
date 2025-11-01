@@ -27,12 +27,12 @@
             {
                 "type": "Link",
                 "label": "中科院分区",
-                "url": "https://www.fenqubiao.com/",
+                "url": "https://www.fenqubiao.com/"
             },
             {
                 "type": "Social",
                 "label": "SCI分区",
-                "url": "https://www.scimagojr.com/journalrank.php",
+                "url": "https://www.scimagojr.com/journalrank.php"
             }
         ],
         "styles": {
