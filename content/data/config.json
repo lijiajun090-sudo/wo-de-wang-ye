@@ -29,7 +29,7 @@
                 "url": "https://www.fenqubiao.com/"
             },
             {
-                "type": "Social",
+                "type": "Link",
                 "label": "SCI分区",
                 "url": "https://www.scimagojr.com/journalrank.php"
             }
@@ -51,7 +51,7 @@
             {
                 "type": "Link",
                 "label": "联系我们",
-                "url": "mailto:liuxuezhitongche2.@outlook.com"
+                "url": "mailto:liuxuezhitongche2@outlook.com"
             },
             {
                 "type": "Link",
@@ -64,12 +64,12 @@
             "title": "Contact details",
             "phone": "Wechat: liuxuezhitongche2",
             "phoneAltText": "My WeChat number",
-            "email": "liuxuezhitongche2.@outlook.com",
+            "email": "liuxuezhitongche2@outlook.com",
             "emailAltText": "My email",
             "address": "Haidian District, Beijing, China, 100811",
             "addressAltText": "My address"
         },
-        "copyrightText": "知识就是力量",
+        "copyrightText": "知识就是力量 Powered by Netlify",
         "styles": {
             "self": {
                 "width": "narrow",
